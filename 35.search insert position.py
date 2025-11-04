@@ -1,4 +1,4 @@
-#leecode- 36.search insert position
+#leecode- 35.search insert position
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         left=0
