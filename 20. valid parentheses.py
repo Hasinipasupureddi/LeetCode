@@ -11,3 +11,20 @@ class Solution(object):
             elif len(stack)==0 or stack.pop()!=i:
                 return False
         return len(stack)==0
+
+#or alternate
+'''class Solution(object):
+    def isValid(self, s):
+    stack=[]
+        for char in s:
+            if(char in "{[("):
+                stack.append(char)
+            else:
+                if(len(stack)==0):
+                    return False
+                x=stack.pop()
+                if((x=="(" and char==")")or (x=="{"and char=="}") or (x=="["and char=="]")):
+                    continue
+                else:
+                    return False
+        return len(stack)==0'''
