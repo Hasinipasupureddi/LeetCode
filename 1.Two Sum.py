@@ -1,4 +1,4 @@
-#1 .Two Sum-leetcode problem
+#1.Two Sum-leetcode problem
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
