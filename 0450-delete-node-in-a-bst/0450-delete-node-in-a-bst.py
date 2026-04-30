@@ -13,6 +13,8 @@ class Solution:
         elif key>root.val:
             root.right=self.deleteNode(root.right,key)
         else:
+            if not root.left and not root.right:
+                return None
             if not root.left:
                 return root.right
             elif not root.right:
