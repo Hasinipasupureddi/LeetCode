@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Hash Table
@@ -92,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0015-3sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
