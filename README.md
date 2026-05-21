@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0053-maximum-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0190-reverse-bits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
