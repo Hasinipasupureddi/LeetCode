@@ -15,7 +15,8 @@ class Solution:
                     return base[:i] # Return the prefix sliced up to index i
                     
         return base'''
-        if not strs:
+
+        '''if not strs:
             return ""
             
         # Find lexicographically lowest and highest strings
@@ -26,4 +27,17 @@ class Solution:
             if first[i] != last[i]:
                 return first[:i]
                 
-        return first
+        return first'''
+
+        if not strs:
+            return ""
+            
+        prefix = []
+        # zip(*strs) groups characters vertically: (('f','f','f'), ('l','l','l'), ...)
+        for chars in zip(*strs):
+            if len(set(chars)) == 1:
+                prefix.append(chars[0])
+            else:
+                break
+                
+        return "".join(prefix)
