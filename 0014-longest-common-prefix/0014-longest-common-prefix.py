@@ -1,6 +1,6 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        # Edge case: if the input list is empty, return an empty string
+        ''' # Edge case: if the input list is empty, return an empty string
         if not strs:
             return ""
         # Use the first string as our baseline reference
@@ -14,4 +14,16 @@ class Solution:
                 if i == len(word) or word[i] != base[i]:
                     return base[:i] # Return the prefix sliced up to index i
                     
-        return base
+        return base'''
+        if not strs:
+            return ""
+            
+        # Find lexicographically lowest and highest strings
+        first = min(strs)
+        last = max(strs)
+        
+        for i in range(min(len(first), len(last))):
+            if first[i] != last[i]:
+                return first[:i]
+                
+        return first
