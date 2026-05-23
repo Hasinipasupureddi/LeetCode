@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
 | ------- |
