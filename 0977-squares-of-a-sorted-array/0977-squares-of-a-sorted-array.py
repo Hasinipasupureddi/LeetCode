@@ -15,7 +15,6 @@ class Solution:
                 left += 1
             else:
                 res[pos] = right_square
-                right -= 1
-                
+                right -= 1  
             pos -= 1  
         return res
