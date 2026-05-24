@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0055-jump-game) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
