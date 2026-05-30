@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0392-is-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Sliding Window
 |  |
