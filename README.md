@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1470-shuffle-the-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0860-lemonade-change) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
