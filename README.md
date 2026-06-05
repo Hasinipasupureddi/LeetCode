@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
