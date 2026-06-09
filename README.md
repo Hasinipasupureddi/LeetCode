@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0392-is-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Sliding Window
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
