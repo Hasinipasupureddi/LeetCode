@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3838-weighted-word-mapping](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [3456-find-special-substring-of-length-k](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3456-find-special-substring-of-length-k) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3838-weighted-word-mapping](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0415-add-strings) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3838-weighted-word-mapping](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
