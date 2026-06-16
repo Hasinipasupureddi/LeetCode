@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
