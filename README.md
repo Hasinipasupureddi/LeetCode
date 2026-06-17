@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Graph Theory
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
