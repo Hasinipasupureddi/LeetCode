@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0127-word-ladder) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
 ## Linked List
 |  |
@@ -320,5 +324,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
