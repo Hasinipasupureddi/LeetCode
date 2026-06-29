@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3456-find-special-substring-of-length-k](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3456-find-special-substring-of-length-k) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3838-weighted-word-mapping](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3838-weighted-word-mapping) |
