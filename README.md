@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0392-is-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0062-unique-paths) |
 | [0292-nim-game](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0062-unique-paths) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Simulation
 |  |
