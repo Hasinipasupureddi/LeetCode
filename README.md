@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0904-fruit-into-baskets) |
