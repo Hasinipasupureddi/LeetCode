@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0338-counting-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Trie
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0819-most-common-word) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Brainteaser
