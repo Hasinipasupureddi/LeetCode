@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0463-island-perimeter) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0127-word-ladder) |
+| [0257-binary-tree-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0383-ransom-note) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0257-binary-tree-paths](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
