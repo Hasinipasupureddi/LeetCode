@@ -357,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0463-island-perimeter) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
