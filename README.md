@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
