@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0819-most-common-word](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
