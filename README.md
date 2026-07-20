@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3838-weighted-word-mapping](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Counting
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
 | ------- |
