@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
