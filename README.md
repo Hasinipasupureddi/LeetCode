@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3731-find-missing-elements) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3731-find-missing-elements) |
