@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1251-average-selling-price) |
 | [1729-find-followers-count](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
