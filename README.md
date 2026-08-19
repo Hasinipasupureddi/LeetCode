@@ -429,4 +429,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
