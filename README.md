@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1873-calculate-special-bonus) |
+| [1907-count-salary-categories](https://github.com/Hasinipasupureddi/LeetCode/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Hasinipasupureddi/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3570-find-books-with-no-available-copies](https://github.com/Hasinipasupureddi/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
