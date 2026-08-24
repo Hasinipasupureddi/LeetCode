@@ -1,10 +1,10 @@
 # Write your MySQL query statement below
-select 
-case 
-   when count(num)>1 then null
-    else max(num)
-end as num
-from MyNumbers
-group by num
-order by num desc
-limit 1
+SELECT 
+    CASE 
+        WHEN COUNT(*) = 1 THEN num
+        ELSE NULL
+    END AS num
+FROM MyNumbers
+GROUP BY num
+ORDER BY COUNT(*) = 1 DESC, num DESC
+LIMIT 1;
